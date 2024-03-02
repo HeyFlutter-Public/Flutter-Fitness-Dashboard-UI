@@ -12,3 +12,4 @@ This is a complete Fitness Dashboard UI built in Flutter. This repository is for
 Check out our YouTube tutorial to learn more in detail about building Responsive Dashboard apps.
 
 Here's the link: https://youtu.be/fVZqxpNdD6c
+# Fitness-Dashboard-UI
